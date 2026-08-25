@@ -75,8 +75,8 @@ Assets/Scripts/
 ## 실행 방법
 
 ```bash
-git clone https://github.com/syh8775/project_nom.git
-cd project_nom
+git clone https://github.com/syh8775/dont-be-late.git
+cd dont-be-late
 git lfs pull
 ```
 
