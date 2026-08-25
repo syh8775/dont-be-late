@@ -20,6 +20,16 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Local recovery and exported Windows build artifacts
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/신요한_최종빌드/
+/신요한_최종빌드.zip
+
+# Imported TextMesh Pro samples are not used by this game
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras.meta
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be committed to version control.
 *.blend1
 *.blend1.meta
